@@ -2,7 +2,7 @@
 //  WaveView.swift
 //  WaveAnimation
 //
-//  Created by shashank on 07/03/21.
+//  Created by leadIosDev on 07/03/21.
 //
 
 import SwiftUI
